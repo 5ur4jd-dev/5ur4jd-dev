@@ -9,12 +9,13 @@ AI application builder focused on prompt engineering, API integrations, and auto
 - API-based integrations
 - Lightweight automation systems
 
-## Currently learning
+## Currently learning 
 
 - Prompt engineering workflows
 - REST API integrations
 - Web application structure
 - AI-assisted development environments
+  
 
 ## Goal
 
