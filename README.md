@@ -1,53 +1,42 @@
-<!-- =========================
-     SURaj / DEBUGTHEORY
-     GitHub Profile README
-========================= -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI+Application+Builder;Prompt+Engineer;API+Integrator;Automation+Builder;Building+useful+things+with+AI+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI+Application+Builder;Prompt+Engineering;API+Integrations;Automation+Workflows;Building+Practical+AI+Tools+%E2%9A%A1" />
 
-# 👋 Hey, I'm **Suraj**
+# Hi, I'm Suraj 👋
 
-### `AI Application Builder` • `Prompt Engineer` • `Automation Builder`
+### `AI Application Builder` · `Prompt Engineer` · `Automation Builder`
 
 <p>
   <a href="https://github.com/debugtheory">
     <img src="https://img.shields.io/badge/GitHub-debugtheory-181717?style=for-the-badge&logo=github" />
   </a>
-
   <a href="https://www.buymeacoffee.com/debugtheory">
     <img src="https://img.shields.io/badge/%E2%98%95%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
 
-<p>
-  Turning ideas into practical AI-powered tools
-  using <b>AI, APIs, prompts and automation.</b>
-</p>
+> Building practical AI-powered tools with prompts, APIs and automation.
 
 </div>
 
 ---
 
-## 🖥️ `whoami`
+## 🧠 About Me
 
 ```text
-suraj@debugtheory:~$ whoami
-
-AI application builder focused on turning ideas
-into practical software using AI, APIs and automation.
-
-suraj@debugtheory:~$ cat mission.txt
-
-→ Build useful AI-powered tools
-→ Experiment with LLM workflows
-→ Connect systems through APIs
-→ Automate repetitive work
-→ Keep learning
-→ Keep shipping
-
-suraj@debugtheory:~$ _
+┌──────────────────────────────────────────────┐
+│  suraj@debugtheory:~$ ./about.sh             │
+├──────────────────────────────────────────────┤
+│                                              │
+│  🤖 AI Application Builder                   │
+│  🧠 Prompt Engineering                       │
+│  🔌 API Integrations                         │
+│  ⚙️  Automation Workflows                    │
+│  🌐 Web Applications                          │
+│                                              │
+│  I like turning ideas into useful software.  │
+│                                              │
+└──────────────────────────────────────────────┘
 
 
 ---
@@ -55,196 +44,126 @@ suraj@debugtheory:~$ _
 ⚡ What I Build
 
 <table>
-<tr><td width="50%">🤖 AI Applications
+<tr>
+<td width="50%" valign="top">🤖 AI-Assisted Web Utilities
 
-Building practical applications around AI, LLMs and prompt-driven workflows.
+Practical web tools that use AI to solve real-world problems.
 
-</td><td width="50%">🧠 Prompt-Driven Tools
+</td><td width="50%" valign="top">🧠 Prompt-Driven Tools
 
-Turning prompts and workflows into useful, repeatable AI tools.
+Experimenting with prompts, workflows and AI-powered utilities.
 
-</td></tr><tr><td width="50%">🔌 API Integrations
+</td>
+</tr><tr>
+<td width="50%" valign="top">🔌 API-Based Integrations
 
-Connecting applications and services through REST APIs and integrations.
+Connecting applications and services through REST APIs.
 
-</td><td width="50%">⚙️ Automation Systems
+</td><td width="50%" valign="top">⚙️ Automation Systems
 
-Building lightweight workflows that reduce repetitive manual work.
+Building lightweight workflows that reduce repetitive work.
 
-</td></tr>
+</td>
+</tr>
 </table>
 ---
 
-🚀 Featured Projects
+🚀 Projects
 
-🤖 SentinelAI
+<div align="center">Project	Description	Language
 
-> An autonomous AI sales development assistant for freelancers, agencies and small businesses.
+SentinelAI	Autonomous AI sales development assistant	PHP
+Data-Light	AI-powered data analytics platform	PHP
+PandaChat	Chat application experiment	PHP
+VeloraMux	Local video inspection & remix workspace	Python
+Selif	Free music application	Kotlin
+Alex	Offline voice assistant	Python
 
 
-
-PHP • AI • Automation
-
-
+</div><br><div align="center"><a href="https://github.com/debugtheory?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a></div>
 ---
 
-📊 Data-Light
+🛠️ Tech Stack
 
-> AI-powered data analytics platform for CSV, Excel and JSON datasets with automated insights, dashboards, charts, anomaly detection and reporting.
+<div align="center"><img src="https://skillicons.dev/icons?i=python,php,kotlin,js,html,css,git,github,vscode,docker,sqlite,linux&perline=6" /><br><br>
 
-
-
-PHP • AI • Data Analytics • MIT
-
-
+<img src="https://img.shields.io/badge/AI-Applications-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/REST-APIs-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-16A34A?style=flat-square" /></div>
 ---
 
-💬 PandaChat
+📚 Currently Learning
 
-> A chat application experiment focused on building a simple conversational experience.
+Prompt Engineering Workflows
+████████████████░░░░
 
+REST API Integrations
+██████████████░░░░░░
 
+Web Application Structure
+████████████░░░░░░░░
 
-PHP • Chat
+AI-Assisted Development
+███████████████░░░░░
 
-
----
-
-🎬 VeloraMux
-
-> A local video workspace for inspecting, editing and safely remixing video files with metadata, streams, subtitles, fonts, chapters and export controls.
-
-
-
-Python • Video
-
-
----
-
-🎵 Selif
-
-> A lightweight free music application.
-
-
-
-Kotlin • Music
-
-
----
-
-🎙️ Alex
-
-> An offline voice assistant for device control, automation, calls, messages, alarms, reminders, files and everyday tasks.
-
-
-
-Python • Voice Assistant • Automation
-
-
----
-
-<div align="center"><a href="https://github.com/debugtheory?tab=repositories">
-<img src="https://img.shields.io/badge/🔎%20Explore%20All%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a></div>
----
-
-🧰 Tech Stack
-
-<div align="center">Languages
-
-<img src="https://skillicons.dev/icons?i=python,php,kotlin,js,html,css" />Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,sqlite,linux" /><br><br>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Workflows-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-16A34A?style=for-the-badge" /></div>
----
-
-🧠 Currently Learning
-
-Prompt Engineering Workflows     ████████████████░░░░
-REST API Integrations            ██████████████░░░░░░
-Web Application Structure        ████████████░░░░░░░░
-AI-Assisted Development          ███████████████░░░░░
-
-My current workflow
+🔭 Current Direction
 
 💡 IDEA
-   │
-   ▼
-🧠 PROMPT / LOGIC
-   │
-   ▼
-🔌 API
-   │
-   ▼
-⚙️ AUTOMATION
-   │
-   ▼
-🌐 APPLICATION
-   │
-   ▼
-🚀 USEFUL SOFTWARE
+                │
+                ▼
+        🧠 PROMPT / LOGIC
+                │
+                ▼
+             🔌 API
+                │
+                ▼
+          ⚙️ AUTOMATION
+                │
+                ▼
+         🌐 APPLICATION
+                │
+                ▼
+          🚀 USEFUL TOOL
 
 
 ---
 
-📈 GitHub Activity
+🎯 My Goal
 
-<div align="center"><img height="180"
-src="https://github-readme-stats.vercel.app/api?username=debugtheory&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+<div align="center">Build practical AI-powered tools that solve real problems.
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugtheory&layout=compact&hide_border=true&theme=transparent" />
-
-</div><br><div align="center"><img src="https://streak-stats.demolab.com?user=debugtheory&hide_border=true&theme=transparent" /></div>
----
-
-🐍 Contribution Activity
-
-<div align="center"><img src="https://raw.githubusercontent.com/debugtheory/debugtheory/output/github-contribution-grid-snake.svg" /></div>
----
-
-🎯 The Goal
-
-<div align="center">Build things that are actually useful.
-
-Not just AI demos.
-Not just prompts.
-Not just another repository.
-
-> Turn ideas → into tools → into useful software.
-
-
+<br>Learn → Build → Experiment → Improve → Ship
 
 </div>
 ---
 
 ☕ Support My Work
 
-<div align="center">Enjoyed something I built?
+<div align="center">If something I build helps you,
 
-You can support the next experiment. ❤️
+consider buying me a coffee. ❤️
 
-<br><a href="https://www.buymeacoffee.com/debugtheory" target="_blank"><img
-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-alt="Buy Me A Coffee"
-style="height: 60px !important;width: 217px !important;"
-/>
+<br><a href="https://www.buymeacoffee.com/debugtheory"><img src="https://img.shields.io/badge/%E2%98%95%20BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" /></a><br><br>
 
-</a><br><br>
-
-<a href="https://www.buymeacoffee.com/debugtheory"><img src="https://img.shields.io/badge/☕%20buymeacoffee.com%2Fdebugtheory-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></div>
+<a href="https://www.buymeacoffee.com/debugtheory">
+  buymeacoffee.com/debugtheory
+</a></div>
 ---
 
-🤝 Let's Connect
+🤝 Connect
 
 <div align="center"><a href="https://github.com/debugtheory">
 <img src="https://img.shields.io/badge/GitHub-debugtheory-181717?style=for-the-badge&logo=github" />
-</a><a href="https://www.buymeacoffee.com/debugtheory">
-<img src="https://img.shields.io/badge/☕%20Support%20Me-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a></div><br><div align="center">BUILD → BREAK → LEARN → REPEAT
+</a>
+
+<a href="https://www.buymeacoffee.com/debugtheory">
+<img src="https://img.shields.io/badge/☕%20Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a></div><br><div align="center">$ build
+$ break
+$ learn
+$ repeat
 
 Made with ❤️ by Suraj
+
+</div>
