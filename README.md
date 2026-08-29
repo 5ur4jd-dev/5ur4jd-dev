@@ -1,169 +1,195 @@
-<div align="center">
+# 👋 Hi, I'm Suraj
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI+Application+Builder;Prompt+Engineering;API+Integrations;Automation+Workflows;Building+Practical+AI+Tools+%E2%9A%A1" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=false&vCenter=true&width=700&lines=AI+Application+Builder;Prompt+Engineer;API+Integrator;Automation+Builder;Building+useful+things+with+AI+%E2%9A%A1)
 
-# Hi, I'm Suraj 👋
+> I build practical AI-powered tools using prompts, APIs, automation, and modern development workflows.
 
-### `AI Application Builder` · `Prompt Engineer` · `Automation Builder`
-
-<p>
-  <a href="https://github.com/debugtheory">
-    <img src="https://img.shields.io/badge/GitHub-debugtheory-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.buymeacoffee.com/debugtheory">
-    <img src="https://img.shields.io/badge/%E2%98%95%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
-> Building practical AI-powered tools with prompts, APIs and automation.
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-debugtheory-181717?style=for-the-badge&logo=github)](https://github.com/debugtheory)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/debugtheory)
 
 ---
 
 ## 🧠 About Me
 
+I'm focused on building useful software around **AI, APIs and automation**.
+
+I enjoy taking an idea, experimenting with the technology behind it,
+and turning it into something people can actually use.
+
 ```text
-┌──────────────────────────────────────────────┐
-│  suraj@debugtheory:~$ ./about.sh             │
-├──────────────────────────────────────────────┤
-│                                              │
-│  🤖 AI Application Builder                   │
-│  🧠 Prompt Engineering                       │
-│  🔌 API Integrations                         │
-│  ⚙️  Automation Workflows                    │
-│  🌐 Web Applications                          │
-│                                              │
-│  I like turning ideas into useful software.  │
-│                                              │
-└──────────────────────────────────────────────┘
+IDEA
+  ↓
+PROMPT / LOGIC
+  ↓
+API
+  ↓
+AUTOMATION
+  ↓
+APPLICATION
+  ↓
+USEFUL TOOL
 
 
 ---
 
 ⚡ What I Build
 
-<table>
-<tr>
-<td width="50%" valign="top">🤖 AI-Assisted Web Utilities
+🤖 AI-assisted web utilities
 
-Practical web tools that use AI to solve real-world problems.
+🧠 Prompt-driven tools
 
-</td><td width="50%" valign="top">🧠 Prompt-Driven Tools
+🔌 API-based integrations
 
-Experimenting with prompts, workflows and AI-powered utilities.
+⚙️ Lightweight automation systems
 
-</td>
-</tr><tr>
-<td width="50%" valign="top">🔌 API-Based Integrations
+🌐 Practical AI applications
 
-Connecting applications and services through REST APIs.
 
-</td><td width="50%" valign="top">⚙️ Automation Systems
 
-Building lightweight workflows that reduce repetitive work.
-
-</td>
-</tr>
-</table>
 ---
 
 🚀 Projects
 
-<div align="center">Project	Description	Language
+🤖 SentinelAI
 
-SentinelAI	Autonomous AI sales development assistant	PHP
-Data-Light	AI-powered data analytics platform	PHP
-PandaChat	Chat application experiment	PHP
-VeloraMux	Local video inspection & remix workspace	Python
-Selif	Free music application	Kotlin
-Alex	Offline voice assistant	Python
+An autonomous AI sales development assistant for freelancers, agencies and small businesses.
+
+PHP · AI · Automation
 
 
-</div><br><div align="center"><a href="https://github.com/debugtheory?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a></div>
+---
+
+📊 Data-Light
+
+An AI-powered data analytics platform for CSV, Excel and JSON datasets, focused on automated insights, dashboards, charts and analysis.
+
+PHP · AI · Data Analytics
+
+
+---
+
+💬 PandaChat
+
+A chat application experiment built around conversational AI.
+
+PHP · Chat
+
+
+---
+
+🎬 VeloraMux
+
+A local video workspace for inspecting, editing and remixing video files.
+
+Python · Video
+
+
+---
+
+🎵 Selif
+
+A free music application experiment.
+
+Kotlin · Music
+
+
+---
+
+🎙️ Alex
+
+An offline voice assistant focused on device control, automation and everyday tasks.
+
+Python · Voice Assistant · Automation
+
+
 ---
 
 🛠️ Tech Stack
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,php,kotlin,js,html,css,git,github,vscode,docker,sqlite,linux&perline=6" /><br><br>
+     
 
-<img src="https://img.shields.io/badge/AI-Applications-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/REST-APIs-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Automation-16A34A?style=flat-square" /></div>
+     
+
+
 ---
 
 📚 Currently Learning
 
-Prompt Engineering Workflows
+🧠 Prompt Engineering
+
 ████████████████░░░░
 
-REST API Integrations
+🔌 REST API Integrations
+
 ██████████████░░░░░░
 
-Web Application Structure
+🌐 Web Application Structure
+
 ████████████░░░░░░░░
 
-AI-Assisted Development
+🤖 AI-Assisted Development
+
 ███████████████░░░░░
 
-🔭 Current Direction
 
-💡 IDEA
-                │
-                ▼
-        🧠 PROMPT / LOGIC
-                │
-                ▼
-             🔌 API
-                │
-                ▼
-          ⚙️ AUTOMATION
-                │
-                ▼
-         🌐 APPLICATION
-                │
-                ▼
-          🚀 USEFUL TOOL
+---
+
+🔭 What I'm Exploring
+
+AI
+├── Prompt Engineering
+├── LLM Workflows
+└── AI Applications
+
+APIs
+├── REST APIs
+├── Integrations
+└── API-driven Tools
+
+Automation
+├── Workflow Design
+├── Repetitive Task Automation
+└── AI-assisted Workflows
+
+Development
+├── Web Applications
+├── Developer Tools
+└── AI-assisted Development
 
 
 ---
 
 🎯 My Goal
 
-<div align="center">Build practical AI-powered tools that solve real problems.
+> Build practical AI-powered tools that solve real-world problems.
 
-<br>Learn → Build → Experiment → Improve → Ship
 
-</div>
+
+Learn → Build → Experiment → Improve → Ship
+
+
 ---
 
 ☕ Support My Work
 
-<div align="center">If something I build helps you,
+If you find something I've built useful, you can support my work with a coffee. ❤️
 
-consider buying me a coffee. ❤️
+☕ Buy Me a Coffee
 
-<br><a href="https://www.buymeacoffee.com/debugtheory"><img src="https://img.shields.io/badge/%E2%98%95%20BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" /></a><br><br>
 
-<a href="https://www.buymeacoffee.com/debugtheory">
-  buymeacoffee.com/debugtheory
-</a></div>
+
+
 ---
 
 🤝 Connect
 
-<div align="center"><a href="https://github.com/debugtheory">
-<img src="https://img.shields.io/badge/GitHub-debugtheory-181717?style=for-the-badge&logo=github" />
-</a>
 
-<a href="https://www.buymeacoffee.com/debugtheory">
-<img src="https://img.shields.io/badge/☕%20Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a></div><br><div align="center">$ build
-$ break
-$ learn
-$ repeat
+
+
+
+
+---
+
+BUILD → BREAK → LEARN → REPEAT
 
 Made with ❤️ by Suraj
-
-</div>
