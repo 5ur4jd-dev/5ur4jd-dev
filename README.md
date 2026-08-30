@@ -5,7 +5,6 @@
 > I build practical AI-powered tools using prompts, APIs, automation, and modern development workflows.
 
 [![GitHub](https://img.shields.io/badge/GitHub-debugtheory-181717?style=for-the-badge&logo=github)](https://github.com/debugtheory)
-[![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/debugtheory)
 
 ---
 
